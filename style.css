@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+button {
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 20px;
+  letter-spacing: 1.2px;
+  margin: 0 auto;
+}
